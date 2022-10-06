@@ -1,9 +1,8 @@
 <html>
     <head>
-
     </head>
     <title>
-
+        Traffic system
     </title>
     <body>
         <h1>Hello.</h1>

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1;
+    display: block;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+
+.header{
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    width: 100vw;
+    height: 10vh;
+}
+.navgroup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid black;
+    list-style-type: none;
+    
+}
+
+.hyperl{
+    text-decoration: none;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.logo{
+    font-size: 20px;
+}
